@@ -1,2 +1,2 @@
-# CNC-Dpcker
+# CNC-Docker
 Deploy Application using Docker with Nginx .
